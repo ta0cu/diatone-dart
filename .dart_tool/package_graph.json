@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "diatone"
+  ],
+  "packages": [
+    {
+      "name": "diatone",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
